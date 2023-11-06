@@ -1,4 +1,4 @@
-*This Programme evaluates thav evalue of a life
+*This Programme evaluates the value of a life
 	global data "P:/Working/analysis/data"
 	global output "P:/Working/analysis/output"
 	global dofiles "P:/Working/analysis/dofiles"
